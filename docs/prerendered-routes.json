@@ -1,0 +1,16 @@
+{
+  "routes": {
+    "/E-Comerce": {},
+    "/E-Comerce/allorders": {},
+    "/E-Comerce/brands": {},
+    "/E-Comerce/cart": {},
+    "/E-Comerce/category": {},
+    "/E-Comerce/forget": {},
+    "/E-Comerce/home": {},
+    "/E-Comerce/login": {},
+    "/E-Comerce/product-details": {},
+    "/E-Comerce/products": {},
+    "/E-Comerce/register": {},
+    "/E-Comerce/wishlist": {}
+  }
+}
